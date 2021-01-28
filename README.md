@@ -2,8 +2,8 @@
 
 - Enhance low resolution image to high resolution image
 
-**Click image to see [Youtube video](https://youtu.be/VxRCku4Bkgg)!**  
-[![result.png](https://github.com/kairess/super_resolution/raw/master/result.png)](https://youtu.be/VxRCku4Bkgg)
+**Click image to see [Website](https://sophieeunajang.wordpress.com)!**  
+
 
 ## Dependencies
 - Python 3+
