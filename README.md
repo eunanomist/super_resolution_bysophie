@@ -2,7 +2,7 @@
 
 - Enhance low resolution image to high resolution image
 
-**Click image to see [Website](https://sophieeunajang.wordpress.com)!**  
+**To understand and follow how to work click [Website](https://sophieeunajang.wordpress.com)!**  
 
 
 ## Dependencies
