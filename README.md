@@ -2,6 +2,8 @@
 
 - Enhance low resolution image to high resolution image
 
+![Screenshot](result.png)
+
 **To understand and follow how to work click [Website](https://sophieeunajang.wordpress.com)!**  
 
 
